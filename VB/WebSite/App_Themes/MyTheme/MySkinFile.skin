@@ -1,0 +1,9 @@
+﻿<%@ Register TagPrefix="dxgv" Namespace="DevExpress.Web.ASPxGridView" Assembly="DevExpress.Web.ASPxGridView.v8.1" %> 
+
+<dxgv:ASPxGridView runat="server" SkinId="GlassSkin" CssFilePath="~/App_Themes/MyTheme/Glass/{0}/styles.css" CssPostfix="Glass" >
+    <Images ImageFolder="~/App_Themes/MyTheme/Glass/{0}" ></Images>
+</dxgv:ASPxGridView>
+
+<dxgv:ASPxGridView runat="server" SkinId="OfficeSkin" CssFilePath="~/App_Themes/MyTheme/Office2003 Blue/{0}/styles.css" CssPostfix="Office2003_Blue" >
+    <Images ImageFolder="~/App_Themes/MyTheme/Office2003 Blue/{0}/" ></Images>
+</dxgv:ASPxGridView>

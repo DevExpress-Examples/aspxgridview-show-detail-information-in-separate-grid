@@ -1,0 +1,249 @@
+.dxDisabled_Office2003_Blue
+{
+    color: #808080;
+}
+.dxeBase_Office2003_Blue
+{
+    font-family: Tahoma;
+    font-size: 9pt;
+}
+/* -- ErrorFrame -- */
+.dxeErrorCell_Office2003_Blue, .dxeErrorCell_Office2003_Blue td
+{
+    font-family: Tahoma;
+    font-size: 9pt;
+    color: Red;
+}
+.dxeErrorCell_Office2003_Blue
+{
+    padding-left: 4px;
+    padding-right:5px;        
+}
+.dxeErrorFrame_Office2003_Blue
+{
+    padding-right: 3px;
+}
+.dxeEditArea_Office2003_Blue 
+{
+    font-family: Tahoma;
+    font-size: 9pt;
+    border: solid 1px #6a8ccb;
+}
+/* -- Buttons -- */
+.dxeButtonEditButton_Office2003_Blue, .dxeCalendarButton_Office2003_Blue
+{
+    vertical-align: middle;
+    border: solid 1px #6a8ccb;
+} 
+.dxeButtonEditButton_Office2003_Blue, .dxeCalendarButton_Office2003_Blue, .dxeButtonEditButton_Office2003_Blue td.dx, .dxeCalendarButton_Office2003_Blue td.dx
+{    
+    font-family: Tahoma;
+    font-size: 9pt;        
+    text-align: center;
+} 
+.dxeButtonEditButton_Office2003_Blue
+{
+    padding: 3px 1px;
+    background: url(edtButtonBack.gif) repeat-x center bottom #d7e8fd;
+}
+.dxeButtonEditButton_Office2003_Blue table.dxbebt
+{
+    width: 14px;
+}
+
+.dxeCalendarButton_Office2003_Blue      
+{
+    background: url(edtButtonBack.gif) repeat-x center bottom #d7e8fd;
+    padding: 4px 11px;
+    padding-top: 2px;
+    width: 32px;
+}
+.dxeCalendarButton_Office2003_Blue td.dx
+{
+    text-align: center;
+    white-space: nowrap;
+}
+
+/* -- Pressed -- */
+.dxeCalendarButtonPressed_Office2003_Blue, .dxeButtonEditButtonPressed_Office2003_Blue
+{
+    border: solid 1px #000080;
+    background: url(edtButtonBackPressed.gif) repeat-x center top #ffcf8b;    
+}
+/* -- Hover -- */
+.dxeCalendarButtonHover_Office2003_Blue, .dxeButtonEditButtonHover_Office2003_Blue
+{
+    border: solid 1px #000080;
+    background: url(edtButtonBackHover.gif) repeat-x center bottom #fff2c8;
+}
+
+.dxeButtonEdit_Office2003_Blue
+{
+    background-color: white;
+    border: solid 1px #6a8ccb;
+    width: 170px;
+}
+.dxeButtonEdit_Office2003_Blue .dxeEditArea_Office2003_Blue, .dxeButtonEdit_Office2003_Blue td.dxic
+{
+    width: 100%;
+}
+.dxeButtonEdit_Office2003_Blue td.dxic
+{
+    padding: 0px 2px 0px 1px;
+}
+.dxeTextBox_Office2003_Blue, .dxeMemo_Office2003_Blue
+{
+    background-color: white;
+    border: solid 1px #6a8ccb;
+}
+.dxeTextBox_Office2003_Blue td.dxic
+{
+    padding: 1px 2px;
+}
+.dxeTextBox_Office2003_Blue td.dxic 
+{
+    width: 100%;
+}
+.dxeRadioButtonList_Office2003_Blue, .dxeRadioButtonList_Office2003_Blue table
+{
+    font-family: Tahoma;
+    font-size: 9pt;    
+}
+.dxeRadioButtonList_Office2003_Blue
+{
+    border: Solid 1px #6a8ccb;
+}
+.dxeRadioButtonList_Office2003_Blue td.dxe
+{
+    padding: 6px 11px;
+}
+
+/* -- Memo -- */
+.dxeMemo_Office2003_Blue
+{
+    padding-left: 3px;
+}
+.dxeMemoEditArea_Office2003_Blue 
+{
+    font-family: Tahoma;
+    font-size: 9pt;
+}
+.dxeMemo_Office2003_Blue td
+{
+    width: 100%;
+}
+
+/* -- Hyperlink -- */
+.dxeHyperlink_Office2003_Blue
+{
+    font-family: Tahoma;
+    font-size: 9pt;
+    color: black;    
+    text-decoration: underline;
+}
+
+/* -- ListBox -- */
+.dxeListBox_Office2003_Blue
+{
+    border: solid 1px #6a8ccb;
+    width: 70px;
+}
+.dxeListBox_Office2003_Blue div.dxlbd
+{
+    padding-top: 1px;    
+    padding-bottom: 0px;
+    background-color: white;
+    font-family: Tahoma;
+    font-size: 9pt;
+    height: 70px;
+}
+.dxeListBoxItem_Office2003_Blue
+{    
+    border-bottom: solid 1px white;    
+    border-left: solid 1px white;    
+    border-right: solid 1px white;    
+    font-family: Tahoma;
+    font-size: 9pt;        
+    padding: 3px 2px 4px 3px;
+    white-space: nowrap;
+    text-align: left;
+}
+.dxeListBoxItemHover_Office2003_Blue        /* inherits dxeListBoxItem */
+{
+    background-color: #cce2fc;
+}
+.dxeListBoxItemSelected_Office2003_Blue     /* inherits dxeListBoxItem */
+{    
+    color: black;
+    background-color: #ffc076;
+}
+
+/* -- Calendar -- */
+.dxeCalendar_Office2003_Blue
+{
+ 
+    border: solid 1px #6a8ccb;
+    background-color: white;
+}
+.dxeCalendar_Office2003_Blue td.dxMonthGrid 
+{
+    padding: 8px 20px;
+}
+.dxeCalendar_Office2003_Blue td.dxMonthGridWithWeekNumbers
+{
+    padding: 8px 20px 8px 8px;
+}
+.dxeCalendarDayHeader_Office2003_Blue
+{
+    font-family: Tahoma;
+    font-size: 9pt;        
+    padding: 4px 4px 5px;    
+    border-bottom: solid 1px #cbe1fc;    
+}
+.dxeCalendarWeekNumber_Office2003_Blue
+{    
+    font-family: Tahoma;
+    font-size: 7pt;    
+    text-align: right;
+    vertical-align: bottom;
+    padding: 5px 8px 3px 4px;
+    color: #81a9e2;
+}
+.dxeCalendarDay_Office2003_Blue
+{    
+    font-family: Tahoma;
+    font-size: 9pt;
+    padding: 4px;
+    padding-bottom: 3px;    
+}
+.dxeCalendarWeekend_Office2003_Blue        /* inherits dxeCalendarDay */
+{
+    color: #c00000;
+}
+.dxeCalendarOtherMonth_Office2003_Blue     /* inherits dxeCalendarDay */
+{
+    color: #888;
+}
+.dxeCalendarSelected_Office2003_Blue       /* inherits dxeCalendarDay */
+{
+    color: black;
+    background-color: #ffc076;
+}
+.dxeCalendarHeader_Office2003_Blue
+{
+    background: url(edtCalendarHeadBack.gif) repeat-x center bottom #ddecfe;
+    border-bottom: solid 1px #cbe1fc;
+    padding: 4px 7px;
+}
+.dxeCalendarHeader_Office2003_Blue td.dxe
+{
+    font-family: Tahoma;
+    font-size: 9pt;
+    text-align: center;
+}
+.dxeCalendarFooter_Office2003_Blue 
+{
+    background-color: #ddecfe;
+    padding: 8px 0px;    
+    border-top: solid 1px #cbe1fc;
+}
