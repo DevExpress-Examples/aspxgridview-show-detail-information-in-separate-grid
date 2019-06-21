@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # How to show detail information in a separate ASPxGridView
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e70/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to use two ASPxGridView instances to show the master-detail data. Detail data is displayed in an external ASPxGridView when a master ASPxGridView's focused row index is modified.<br /><br /><strong>MVC Version:</strong><br /><a href="https://www.devexpress.com/Support/Center/p/E3891">E3891: How to export multiple GridViews into a single print document</a><br /><br /></p>
