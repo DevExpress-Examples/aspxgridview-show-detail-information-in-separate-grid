@@ -11,7 +11,7 @@
 <!-- run online end -->
 
 
-This example demonstrates how to use two [ASPxGridView](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxGridView?p=netframework) instances to show the master-detail data. When a user selects a row in the master `ASPxGridView`, detail data is displayed in another `ASPxGridView`.
+This example demonstrates how to use two [ASPxGridView](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxGridView?p=netframework) instances to show master-detail data. When a user selects a row in the master `ASPxGridView`, detail data is displayed in another `ASPxGridView`.
 
 ![Two grids that show master-detail data](images/detailed-grid.png)
 
