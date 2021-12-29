@@ -10,7 +10,7 @@
 <!-- default file list end -->
 # How to show detail information in a separate ASPxGridView
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e70/)**
+**[[Run Online]](https://codecentral.devexpress.com/128542722/)**
 <!-- run online end -->
 
 
