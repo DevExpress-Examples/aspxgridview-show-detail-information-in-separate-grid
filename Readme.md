@@ -7,7 +7,7 @@
 # Grid View for ASP.NET Web Forms - How to Show Detail Information in a Separate Grid
 
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e70/)**
+**[[Run Online]](https://codecentral.devexpress.com/128542722/)**
 <!-- run online end -->
 
 
