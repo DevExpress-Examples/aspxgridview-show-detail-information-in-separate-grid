@@ -8,7 +8,7 @@ Partial Public Class Master_Detail_Two_Grids
         adsProducts.SelectParameters("CategoryID").DefaultValue = gvMaster.GetRowValues(gvMaster.FocusedRowIndex, "CategoryID").ToString()
     End Sub
 
-    Protected Sub gvDetail_CustomCallback(ByVal sender As Object, ByVal e As DevExpress.Web.ASPxGridView.ASPxGridViewCustomCallbackEventArgs)
+    Protected Sub gvDetail_CustomCallback(ByVal sender As Object, ByVal e As DevExpress.Web.ASPxGridViewCustomCallbackEventArgs)
         Dim categoryId As String = gvMaster.GetRowValues(gvMaster.FocusedRowIndex, "CategoryID").ToString()
 
         adsProducts.SelectParameters("CategoryID").DefaultValue = categoryId
