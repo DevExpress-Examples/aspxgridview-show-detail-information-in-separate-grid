@@ -6,9 +6,6 @@
 
 # Grid View for ASP.NET Web Forms - How to Show Detail Information in a Separate Grid
 
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128542722/)**
-<!-- run online end -->
 
 
 This example demonstrates how to use two [ASPxGridView](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxGridView?p=netframework) instances to show master-detail data. When a user selects a row in the master `ASPxGridView`, detail data is displayed in another `ASPxGridView`.
