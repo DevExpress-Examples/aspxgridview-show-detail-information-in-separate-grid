@@ -61,7 +61,7 @@ protected void gvDetail_CustomCallback(object sender, DevExpress.Web.ASPxGridVie
 * [Grid View for ASP.NET Web Forms - How to Display a Popup Dialog When a User Clicks a Link in a Grid Row](https://github.com/DevExpress-Examples/aspxgridview-display-popup-when-user-clicks-cell-link)
 * **MVC Version:** [How to export multiple GridViews into a single print document](https://github.com/DevExpress-Examples/how-to-export-multiple-gridviews-into-a-single-print-document-e3891)
 <!-- feedback -->
-## Does This Example Address Your Development Requirements/Objectives?
+## Does this example address your development requirements/objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=aspxgridview-show-detail-information-in-separate-grid&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=aspxgridview-show-detail-information-in-separate-grid&~~~was_helpful=no)
 
